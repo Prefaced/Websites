@@ -1,1 +1,0 @@
-alert("Hello, Teman! Welcome to my Waifu Page!");
